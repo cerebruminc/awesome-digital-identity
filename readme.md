@@ -23,6 +23,11 @@ Links related to self sovereign identity that cannot be categorized into another
 - [Wikipedia entry for Self-Sovereign Identity](https://en.wikipedia.org/wiki/Self-sovereign_identity)
 - [Own your identity](https://marco.org/2011/07/11/own-your-identity)
 
+### W3C Decentralized Identifiers (DIDs) and Verifiable Credential (VC) Standards
+
+- [Decentralized Identifiers (DIDs) | Core architecture, data model, and representations](https://www.w3.org/TR/did-core/)
+- [Verifiable Credentials Data Model](https://www.w3.org/TR/vc-data-model/)
+
 ### Criticisms
 
 - [Interrogating Self-Sovereign Identity](https://www.good-id.org/en/articles/interrogating-self-sovereign-identity/)
