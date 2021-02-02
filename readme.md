@@ -51,6 +51,11 @@ Links related to self sovereign identity that cannot be categorized into another
 
 - [India Stack](https://www.indiastack.org/about/)
 
+## Noteworthy Articles
+
+- [Digital Identification Must Be Designed for Privacy and Equity](https://www.eff.org/deeplinks/2020/08/digital-identification-must-be-designed-privacy-and-equity-10)
+
+
 ## Tangential
 
 ## Contribute
