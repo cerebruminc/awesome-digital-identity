@@ -1,0 +1,1 @@
+Be kind and good.
