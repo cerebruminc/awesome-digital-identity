@@ -32,6 +32,7 @@ Links related to self sovereign identity that cannot be categorized into another
 
 - [Interrogating Self-Sovereign Identity](https://www.good-id.org/en/articles/interrogating-self-sovereign-identity/)
 - [The Dystopia of Self-Sovereign Identity (SSI)](https://www.philipsheldrake.com/2020/11/the-dystopia-of-self-sovereign-identity-ssi/)
+  - Response: https://identitywoman.net/self-sovereigh-identity-critique-critique/
 
 ## Decentralized Identity
 
