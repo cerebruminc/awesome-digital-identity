@@ -41,7 +41,6 @@ Links related to self sovereign identity that cannot be categorized into another
 ## Digital Identity
 
 - [A Model for Identity in Software](https://christine.website/blog/identity-model-software-2021-01-31)
-
 - [Identity in The Wired](https://regularflolloping.com/posts/identity-in-the-wired/)
 - [What Is Identity as a Service (IDaaS)?](https://auth0.com/blog/identity-as-a-service-in-2018/)
 - [Cyber Ninjitsu - The Art of Invisibility Online](https://www.soldierx.com/tutorials/Cyber-Ninjitsu-Art-Invisibility-Online)
