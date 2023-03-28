@@ -22,6 +22,7 @@ Links related to self sovereign identity that cannot be categorized into another
 - [Self-Sovereign Identity](https://www.moxytongue.com/2016/02/self-sovereign-identity.html)
 - [Wikipedia entry for Self-Sovereign Identity](https://en.wikipedia.org/wiki/Self-sovereign_identity)
 - [Own your identity](https://marco.org/2011/07/11/own-your-identity)
+- [Polybase - a datbase that enables self-sovereign data](https://framerusercontent.com/modules/assets/GRv4t0d6jQOJbIO7ZOFgonnXqM~f7GLGr1YpwfK85uVr8su7Mxe_3b6VkIZW94sRev8jj4.pdf)
 
 ### W3C Decentralized Identifiers (DIDs) and Verifiable Credential (VC) Standards
 
